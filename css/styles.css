@@ -330,7 +330,8 @@ img {
     fill: #ffffff;
 }
 
-.team-icon-container:hover {
+.team-icon-container:hover,
+.team-icon-container:focus {
     background-color: #404BBF;
 }
 
@@ -467,7 +468,8 @@ img {
     fill: #ffffff;
 }
 
-.footer-icon-container:hover {
+.footer-icon-container:hover,
+.footer-icon-container:focus {
     background-color: #31D0AA;
 }
 
